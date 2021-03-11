@@ -1,2 +1,2 @@
 # SAppBuilderHelper
-S앱빌더의 도움말 페이지 
+S앱빌더 도움말 페이지 
